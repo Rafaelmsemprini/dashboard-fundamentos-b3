@@ -10,10 +10,11 @@ Aplicação interativa desenvolvida em Python para análise fundamentalista de e
 
 ## 🎯 Funcionalidades
 
-- **Análise Individual:** DRE (Receita, EBITDA e Lucro), rentabilidade (ROE) e margens históricas por empresa.
-- **Comparador (Benchmarking):** Seleção múltipla de tickers com filtro por ano de referência.
-- **Temas Customizáveis:** Alternância dinâmica de modo visual (Dark, Light e Azul Finance).
-- **Dados em Tempo Real:** Coleta automatizada via `yfinance`.
+* **Filtros Avançados por Matriz B3:** Busca e seleção hierárquica por Setor, Segmento e Empresa.
+* **Diagnóstico Fundamentalista Automático:** Algoritmo que interpreta indicadores (ROE, Margem Líquida, Dividend Yield) e gera análises qualitativas do negócio.
+* **Análise Individual & DRE Histórica:** Visualização de DRE (Receita, EBITDA e Lucro) e eficiência operacional ao longo dos anos.
+* **Benchmarking & Comparativo Temporal:** Cruzamento do histórico de múltiplos tickers no mesmo gráfico para análise comparativa de tendências.
+* **Exportação de Dados:** Download de relatórios completos em formato CSV.
 
 ---
 
